@@ -1,0 +1,20 @@
+[
+  {
+    "id_producto": 101,
+    "nombre": "Encebollado Mixto",
+    "categoria": "Plato Fuerte",
+    "precio": 4.50
+  },
+  {
+    "id_producto": 102,
+    "nombre": "Jarra de Chicha de Jora",
+    "categoria": "Bebida",
+    "precio": 2.50
+  },
+  {
+    "id_producto": 103,
+    "nombre": "Seco de Chivo",
+    "categoria": "Plato Fuerte",
+    "precio": 6.00
+  }
+]
